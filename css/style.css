@@ -4,7 +4,7 @@
 	margin: 0;
 }
 .wrapper{
-	background: url(bg-img.jpg) no-repeat;
+	background: url(../images/bg-img.jpg) no-repeat;
 	background-size: cover;
 	height: 100vh;
 }
